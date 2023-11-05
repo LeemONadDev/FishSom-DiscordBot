@@ -1,0 +1,1 @@
+Использованные сторонние модули: discord2, discord, openai, requests
